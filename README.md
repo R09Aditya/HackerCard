@@ -1,7 +1,7 @@
 # HackerCard
 NFC hacker card that will have all the details to share around when i go to hackathons, conference or any public events.
 
-#Why I made this
+# Why I made this
 These days i go to alot of hackathons, conference and other events. So sharing my socials(especially LinkedIn) becomes easy with the help of NFC card.
 
 # Screenshots
